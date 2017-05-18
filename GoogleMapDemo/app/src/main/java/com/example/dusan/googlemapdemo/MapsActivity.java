@@ -62,6 +62,11 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
   }
 
+  public void TestMethodNew()
+  {
+
+  }
+
   @Override
   protected void onStart() {
     super.onStart();
